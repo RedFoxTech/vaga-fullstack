@@ -1,6 +1,6 @@
 # Teste de Fullstack
 
-Olá Dev!  Tudo bem?
+Olá Dev! Tudo bem?
 
 Nós estamos sempre em busca de profissionais interessantes e interessados, com boa capacidade de aprendizado, adaptação e principalmente bom senso!
 
@@ -23,16 +23,17 @@ Consegue sim! Só precisa saber (ou aprender agora) um pouco sobre as seguintes 
 - HTML
 - CSS 
 - Javascript
-- Alguma tecnologia backend, por exemplo, NodeJS, PHP, Java, etc...
+- NodeJS
 - Algum banco de dados, por exemplo, MySQL, SQL Server, MongoDB, etc...
 - Git
 
 
 ## Regras
 
-Para o desafio ficar mais interessante, decidimos criar umas regras básicas:
-- No layout, você utilizar algum framework CSS (ex: Bootstrap, MaterializeCSS, Bulma...)
-- Na parte de JS, deve utilizar algum framework (ex: VueJS, ReactJS, Angular...tente não usar jQuery)
+Para o desafio ficar mais interessante, decidimos criar umas regras:
+- No layout, deve utilizar algum framework CSS (ex: Bootstrap, MaterializeCSS, Bulma...)
+- No frontend, deve utilizar algum framework (ex: VueJS, ReactJS, Angular...tente não usar jQuery)
+- No backend, deve utilizar NodeJS
 - Opcional: usar algum automatizador ou ferramenta de build (ex: Webpack, Grunt, Gulp...)
 
 ## Por onde começo?
